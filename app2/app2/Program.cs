@@ -25,23 +25,24 @@ namespace app2
 
             ortalama = (sinav1 + sinav2 + sinav3) / 3;
             string sonuc = "";
-            if(ortalama>=90)
+
+            if (ortalama >= 90)
             {
                 sonuc = "AA";
             }
-            else if (ortalama >= 80 )
+            else if (ortalama >= 80)
             {
                 sonuc = "BA";
             }
-            else if (ortalama >= 75 )
+            else if (ortalama >= 75)
             {
                 sonuc = "BB";
             }
-            else if (ortalama >= 70 )
+            else if (ortalama >= 70)
             {
                 sonuc = "CB";
             }
-            else if (ortalama >= 60 )
+            else if (ortalama >= 60)
             {
                 sonuc = "CC";
             }
@@ -49,14 +50,15 @@ namespace app2
             {
                 sonuc = "DC";
             }
-            else if (ortalama >= 40 )
+            else if (ortalama >= 40)
             {
                 sonuc = "DD";
             }
-            else  
+            else
             {
                 sonuc = "FF";
             }
+
             Console.WriteLine($"Ortalama : {ortalama} - Harf : {sonuc}");
             Console.ReadLine();
         }
