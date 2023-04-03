@@ -1,0 +1,8 @@
+C:\Users\YEŞİM\Desktop\csharp-exercises\app2\app2\bin\Debug\app2.exe.config
+C:\Users\YEŞİM\Desktop\csharp-exercises\app2\app2\bin\Debug\app2.exe
+C:\Users\YEŞİM\Desktop\csharp-exercises\app2\app2\bin\Debug\app2.pdb
+C:\Users\YEŞİM\Desktop\csharp-exercises\app2\app2\obj\Debug\app2.csproj.AssemblyReference.cache
+C:\Users\YEŞİM\Desktop\csharp-exercises\app2\app2\obj\Debug\app2.csproj.SuggestedBindingRedirects.cache
+C:\Users\YEŞİM\Desktop\csharp-exercises\app2\app2\obj\Debug\app2.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİM\Desktop\csharp-exercises\app2\app2\obj\Debug\app2.exe
+C:\Users\YEŞİM\Desktop\csharp-exercises\app2\app2\obj\Debug\app2.pdb
