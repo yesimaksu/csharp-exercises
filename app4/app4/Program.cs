@@ -10,6 +10,8 @@ namespace app4
     {
         static void Main(string[] args)
         {
+            // dizi içerisindeki en uzun metni bulan program 
+
             string metin;
             int sayac, enuzunmetin;
             string[] dizi = new string[10];
@@ -24,7 +26,7 @@ namespace app4
             }
 
 
-            enuzunmetin = dizi[0].Length;
+            enuzunmetin = dizi[0].Length; 
             sayac = 0;
             for (int i = 0; i < dizi.Length; i++)
             {
