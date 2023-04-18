@@ -29,7 +29,6 @@ namespace app5
             foreach(int sayi in sayilar)
             {
                 toplam = toplam + sayi;
-               
             }
             ortalama = toplam / n;
             Console.WriteLine("Ortalama değeri :{0}",ortalama);
